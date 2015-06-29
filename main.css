@@ -57,3 +57,18 @@ h3 {
 .project li{
 	display: inline;
 }
+.education{
+	width:800px;
+	margin: 0 auto 0 auto;
+	list-style-type: none;
+	background-color:#F778A1; 
+
+}
+.education-sheet{
+	background-color:#C12283;
+}
+.education li{
+	display: inline;
+	padding: 20px;
+	margin:5px;
+}

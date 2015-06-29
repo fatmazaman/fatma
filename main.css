@@ -7,10 +7,29 @@ html, head, body, h1, h2, h3, h4, p, div{
 	border:0;
 	font:inherit;
 	font-size:100%;
+
 }
 
 h1{
+	font-family: "Helvetica Neue", Helvetica, sans-serif;
 	font-size: 50px;
 	font-weight: bold;
 	text-align:center;
+
+}
+h2{
+	font-family: "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 25px;
+	font-weight: normal;
+	text-align: center;
+	t
+
+
+}
+.header{
+	background-color:  #C12283;
+}
+.tagline{
+	background-color:   #F778A1;
+	padding:20px 0 20px 0;
 }

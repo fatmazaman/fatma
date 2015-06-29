@@ -1,6 +1,6 @@
 /* main.css */
 
-html, head, body, h1, h2, h3, h4, p, div{
+html, head, body, h1, h2, h3, h4, p, div, ol, ul, li{
 
 	padding:0;
 	margin:0;
@@ -17,19 +17,43 @@ h1{
 	text-align:center;
 
 }
+
 h2{
 	font-family: "Helvetica Neue", Helvetica, sans-serif;
 	font-size: 25px;
-	font-weight: normal;
+	font-weight: 100;
 	text-align: center;
-	t
-
+	width:500px;
+	margin:0 auto 0 auto;
 
 }
+h3 {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 28px;
+  font-weight: normal;
+  text-align: center;
+  border-bottom: 1px solid #555555;
+  margin: 0 10px 20px 10px;
+}
+
 .header{
 	background-color:  #C12283;
 }
+
 .tagline{
 	background-color:   #F778A1;
 	padding:20px 0 20px 0;
+}
+.project-sheet{
+	background-color:#F778A1; 
+}
+.project {
+	width:800px;
+	margin: 0 auto 0 auto;
+	list-style-type: none;
+	background-color:#C12283; 
+	
+}
+.project li{
+	display: inline;
 }

@@ -54,5 +54,7 @@ Code School
 codecademy
 coursera
 Udemy
-
+Udacity
+Pluralsight
+codewar
 

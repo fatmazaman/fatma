@@ -65,10 +65,23 @@ h3 {
 
 }
 .education-sheet{
-	background-color:#C12283;
+	background-color:#F778A1;
 }
 .education li{
 	display: inline;
 	padding: 20px;
-	margin:5px;
+	margin:15px;
+}
+.footer{
+	background-color:#C12283;
+	margin: 20px;
+
+
+}
+.footer li{
+	display: inline;
+
+}
+.education img{
+	height:70px; width:auto;
 }
